@@ -1,5 +1,12 @@
 # vue-crud
-
+## Serve setup
+```
+npm install -g json-server
+```
+## Start JSON Server by cmd
+```
+json-server --watch data/db.json
+```
 ## Project setup
 ```
 npm install
